@@ -10,6 +10,13 @@ _C.*
 outputs/*
 checkpoints/*.pt
 *test*
+
+# My included files
+outputs/cat
+data/dog_mesh_views
+notebooks/cat
+notebooks/lion
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
