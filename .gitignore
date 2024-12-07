@@ -13,7 +13,7 @@ checkpoints/*.pt
 
 # My included files
 outputs/cat
-data/dog_mesh_views
+data/*_views
 notebooks/cat
 notebooks/lion
 
